@@ -1,1 +1,1 @@
-This is a java spring boot mini project with 4 models (user, cart, product, order) using json for data storage, moreover, docker was used, the project was part of the advanced computer lab course in the tenth semester in the CS and engineering major, the german university in cairo.
+This is a java spring boot mini project with 4 models (user, cart, product, order) using json for data storage, moreover, docker was used, I implemented the project in the advanced computer lab course in the tenth semester in the CS and engineering major, the german university in cairo.
